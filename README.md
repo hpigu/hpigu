@@ -13,10 +13,10 @@ I use AI-assisted development tools (Claude Code, Cursor) daily, not just as aut
 
 ### 🛠 Tech Stack
 
-**Core:** Java · Spring Boot · Spring Security · MySQL · Redis · RabbitMQ
-**Infra:** Docker · Kubernetes · Jenkins / GitLab CI/CD
-**Also working with:** Golang · C# · Python (scripting)
-**Daily tools:** Claude Code · Cursor
+- **Core:** Java · Spring Boot · Spring Security · MySQL · Redis · RabbitMQ
+- **Infra:** Docker · Kubernetes · Jenkins / GitLab CI/CD
+- **Also working with:** Golang · C# · Python (scripting)
+- **Daily tools:** Claude Code · Cursor
 
 ### 📌 Highlighted Project — Pobar 2.0
 
@@ -47,10 +47,10 @@ Java 後端工程師，約 7–8 年經驗，主要負責維運與擴充正式�
 
 ### 🛠 技術棧
 
-**核心：** Java · Spring Boot · Spring Security · MySQL · Redis · RabbitMQ
-**基礎設施：** Docker · Kubernetes · Jenkins / GitLab CI/CD
-**其他經驗：** Golang · C# · Python（腳本層級）
-**日常工具：** Claude Code · Cursor
+- **核心：** Java · Spring Boot · Spring Security · MySQL · Redis · RabbitMQ
+- **基礎設施：** Docker · Kubernetes · Jenkins / GitLab CI/CD
+- **其他經驗：** Golang · C# · Python（腳本層級）
+- **日常工具：** Claude Code · Cursor
 
 ### 📌 代表專案 — Pobar 2.0
 
