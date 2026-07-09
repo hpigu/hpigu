@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Huang (黃鈞揚) 👋
+# Hi, I'm Daniel Huang 👋
 
 Java Backend Engineer with ~7–8 years of experience building and maintaining production systems — microservices, distributed caching, message queues, and MySQL performance tuning.
 
